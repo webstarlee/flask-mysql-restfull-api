@@ -1,0 +1,1 @@
+sql_config = 'mysql+pymysql://root@localhost/sinhung'

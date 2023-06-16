@@ -1,0 +1,1 @@
+MSG_FIELD_DEFAULT = "This field cannot be left blank"
